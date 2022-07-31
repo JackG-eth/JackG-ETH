@@ -1,10 +1,9 @@
 
-**Align center:**
 <p align="center" width="100%">
     <img width="33%" src="https://i.imgur.com/DnbEhO1.jpg">
 </p>
 
-<p align="center" class="head" >👷 Buildr</p>
+<p align="center" class="head" >👷 Web3 Buildr</p>
 
 ### Interests:
 - 🔭 Just another dev securing DeFi
