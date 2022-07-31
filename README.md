@@ -1,5 +1,4 @@
-<img align="center" src="https://i.imgur.com/mTJslim.jpg"  />
-<p align="center" class="head" >👷 Buildr, 🛡️Sentinel, 🧑🏻‍🔬Researcher </p>
+<p align="center" class="head" >👷 Buildr</p>
 
 ### Interests:
 - 🛡️ Just an Android securing DeFi
@@ -11,7 +10,14 @@
 - 🔐 Cyber Intelligence is my passion
 - 📫 Reach me on twitter or discord
 
-*<p align="center" class="head" > Androids avant-garde...</p>*
+- 🔭 Just another dev securing DeFi
+- 💞️ Experienced in fullstack development
+- 🧰 [Smart Contacts, Reactive WebApps, Saas]
+- 🔁 Decentralised finance excites me
+- 🤓 I enjoy code, invest and make the world a better place.
+- 📫 Reach me on twitter or discord or email.
+
+*<p align="center" class="head" > Docendo discimus </p>*
 
 <div align="center">
 
