@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/4XHwdF2.png"  />
+<img align="center" src="https://i.imgur.com/mTJslim.jpg"  />
 <p align="center" class="head" >👷 Buildr, 🛡️Sentinel, 🧑🏻‍🔬Researcher </p>
 
 ### Interests:
