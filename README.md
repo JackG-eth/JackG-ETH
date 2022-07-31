@@ -6,9 +6,9 @@
 <p align="center" class="head" >👷 Web3 Buildr</p>
 
 ### Interests:
-- 🔭 Just another dev securing DeFi
+- 🔭 Just another dev exploring DeFi, Blockchain and all things Crypto.
 - 💞️ Experienced in fullstack development
-- 🧰 [Smart Contacts, Reactive WebApps, Saas]
+- 🧰 [Smart Contacts, Reactive WebApps, Saas, EVM]
 - 🔁 Decentralised finance excites me
 - 🤓 I enjoy code, invest and make the world a better place.
 - 📫 Reach me on twitter or discord or email.
