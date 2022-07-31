@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align="center" src="https://i.imgur.com/4XHwdF2.png"  />
+<p align="center" class="head" >👷 Buildr, 🛡️Sentinel, 🧑🏻‍🔬Researcher </p>
 
-<!--
-**JackG-eth/JackG-ETH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests:
+- 🛡️ Just an Android securing DeFi
+- 🌱 Cyber Security, OSINT, digital forensics
+- 💞️  Experienced in fullstack development
+- 🧰 [Smart Contacts, Reactive WebApps, Forensic Greppers]
+- 🔁  Decentralised finance excites me.
+- 🤓 I enjoy code, macro-economic policy and money markets.
+- 🔐 Cyber Intelligence is my passion
+- 📫 Reach me on twitter or discord
 
-Here are some ideas to get you started:
+*<p align="center" class="head" > Androids avant-garde...</p>*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xKoda&layout=compact)
+
+</div>
+
+
+
