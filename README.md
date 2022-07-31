@@ -1,15 +1,6 @@
 <p align="center" class="head" >👷 Buildr</p>
 
 ### Interests:
-- 🛡️ Just an Android securing DeFi
-- 🌱 Cyber Security, OSINT, digital forensics
-- 💞️  Experienced in fullstack development
-- 🧰 [Smart Contacts, Reactive WebApps, Forensic Greppers]
-- 🔁  Decentralised finance excites me.
-- 🤓 I enjoy code, macro-economic policy and money markets.
-- 🔐 Cyber Intelligence is my passion
-- 📫 Reach me on twitter or discord
-
 - 🔭 Just another dev securing DeFi
 - 💞️ Experienced in fullstack development
 - 🧰 [Smart Contacts, Reactive WebApps, Saas]
