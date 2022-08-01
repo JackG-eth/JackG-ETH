@@ -10,7 +10,7 @@
 - 💞️ Experienced in fullstack development
 - 🧰 [Smart Contacts, Reactive WebApps, Saas, EVM]
 - 🔁 Decentralised finance excites me
-- 🤓 I enjoy code, investing and making the world a better place.
+- 🤓 I enjoy coding, investing and making the world a better place.
 - 📫 Reach me on twitter or discord or email.
 
 *<p align="center" class="head" > Docendo discimus </p>*
