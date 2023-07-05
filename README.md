@@ -5,8 +5,6 @@
 
 <p align="center" class="head" >👷 Web3 Buildr</p>
 
-Currently working @ Nomura on their new Digital Assets Business
-
 ### Interests:
 - 🔭 Just another dev exploring DeFi, Blockchain and all things Crypto.
 - 🧰 Solidity & Golang
