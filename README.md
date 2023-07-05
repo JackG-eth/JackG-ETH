@@ -9,8 +9,8 @@ Currently working @ Nomura on their new Digital Assets Business
 
 ### Interests:
 - 🔭 Just another dev exploring DeFi, Blockchain and all things Crypto.
-- 💞️ Experienced in fullstack development
-- 🧰 [Smart Contacts, Reactive WebApps, Saas, EVM]
+- 🧰 Solidity & Golang
+- 💞️ Recently started my journey in Rust 
 - 🔁 Decentralised finance excites me
 - 🤓 I enjoy coding, investing and making the world a better place.
 - 📫 Reach me on twitter or discord or email.
