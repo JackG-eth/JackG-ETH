@@ -15,11 +15,4 @@
 
 *<p align="center" class="head" > Docendo discimus </p>*
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackG-eth&layout=compact)
-
-</div>
-
-
 
