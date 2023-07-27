@@ -12,17 +12,9 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Crypto Advocate/h2></summary>
+    <summary><h2 style="display: inline-block">Go, Solidity & Rust(learning)/h2></summary>
   </ul>
 </div>
-
-
-<!--Intro start-->
-
-- 🌱 I’m currently learning Rust and Solidity
-
-<!--Intro end--
-
 
 
 <!--profile visit count-->
