@@ -10,7 +10,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><style="display: inline-block">Go, Solidity & Rust(learning)</summary>
+    <summary><style="display: inline-block">Go, Solidity & Rust/MEV(learning)</summary>
   </ul>
 </div>
 
