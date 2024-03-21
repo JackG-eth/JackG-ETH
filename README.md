@@ -1,7 +1,6 @@
 <p align="center" class="head" >Curiousity is the wick in the candle of learning</p>
 <p align="center" class="head" >William Arthur Ward</p>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+## Learning the art of beautiful rust by contributing to idomatic code bases.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/JackG-eth/github-readme-stats)
+![My Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
