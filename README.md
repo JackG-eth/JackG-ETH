@@ -3,4 +3,4 @@
 
 ## Learning the art of beautiful rust by contributing to idomatic code bases.
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![My Stats](https://github-readme-stats.vercel.app/api?username=JackG-eth&show_icons=true&theme=transparent)
